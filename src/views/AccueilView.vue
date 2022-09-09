@@ -34,7 +34,7 @@ export default {
     return{
         articles:[{id:'1', title:'aer'}],
         colors: ['#ffbe76', '#ff7979', '#f6e58d', '#f0932b', '#eb4d4b', '#7ed6df', '#e056fd',
-                '#22a6b3', '#ffc048', '#30336b', '#130f40', '#95afc0', '#c7ecee', '#30336b', 
+                '#22a6b3', '#ffc048', '#30336b', '#f7f1e3', '#95afc0', '#c7ecee', '#30336b', 
                 '#26de81', '#20bf6b', '#a55eea', '#45aaf2', '#a5b1c2', '#0fb9b1', '#B33771',
                 '#F8EFBA', '#58B19F', '#F97F51', '#B33771', '#FC427B', '#D6A2E8', '#BDC581']
     }
